@@ -1,4 +1,9 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# A new Hope DAO. 
+
+An experiment in making a DAO which requires and NFT for membership, and has it's own governance token. Where proposals can be made using, by any member and voted on by token holders. 
+The DAO runs on the Rinkeby testnet work and can be accessed here. 
+
+http://newhopedao-env.eba-mfvwfphq.eu-west-1.elasticbeanstalk.com/
 
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
